@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.example.javafxapp.controller.MainController">
+
+    <!-- Header -->
+    <top>
+        <VBox styleClass="header">
+            <HBox alignment="CENTER" spacing="10">
+                <ImageView fx:id="logoImageView" fitHeight="250" fitWidth="250" preserveRatio="true" />
+                <Label styleClass="title" text="Aplikacja do obróbki obrazów" />
+            </HBox>
+            <Separator />
+        </VBox>
+    </top>
+
+    <!-- Main Content -->
+    <center>
+        <VBox spacing="20">
+            <padding>
+                <Insets bottom="20" left="20" right="20" top="20" />
+            </padding>
+
+            <!-- Control Panel -->
+            <HBox alignment="CENTER" spacing="15" styleClass="control-panel">
+                <Button fx:id="loadButton" styleClass="primary-button" text="Wczytaj obraz" />
+                <ComboBox fx:id="operationComboBox" prefWidth="150" promptText="Wybierz operację" />
+                <Button fx:id="executeButton" styleClass="primary-button" text="Wykonaj" />
+                <Separator orientation="VERTICAL" />
+                <Button fx:id="rotateLeftButton" styleClass="icon-button" text="↺" />
+                <Button fx:id="rotateRightButton" styleClass="icon-button" text="↻" />
+                <Button fx:id="scaleButton" styleClass="secondary-button" text="Skaluj" />
+                <Button fx:id="saveButton" styleClass="success-button" text="Zapisz" />
+            </HBox>
+
+            <!-- Progress Bar -->
+            <ProgressBar fx:id="progressBar" maxWidth="Infinity" />
+
+            <!-- Image Display -->
+            <HBox alignment="CENTER" spacing="20" styleClass="image-container">
+                <VBox alignment="CENTER" spacing="10">
+                    <Label styleClass="image-label" text="Obraz oryginalny" />
+                    <StackPane styleClass="image-frame">
+                        <ImageView fx:id="originalImageView" />
+                    </StackPane>
+                </VBox>
+
+                <VBox alignment="CENTER" spacing="10">
+                    <Label styleClass="image-label" text="Obraz przetworzony" />
+                    <StackPane styleClass="image-frame">
+                        <ImageView fx:id="processedImageView" />
+                    </StackPane>
+                </VBox>
+            </HBox>
+        </VBox>
+    </center>
+
+    <!-- Footer -->
+    <bottom>
+        <VBox styleClass="footer">
+            <Separator />
+            <HBox alignment="CENTER_LEFT" spacing="10">
+                <Label fx:id="statusLabel" styleClass="status-label" text="Gotowy do pracy" />
+                <Region HBox.hgrow="ALWAYS" />
+                <Label fx:id="authorLabel" styleClass="author-label" />
+            </HBox>
+        </VBox>
+    </bottom>
+</BorderPane>

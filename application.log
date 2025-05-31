@@ -1,0 +1,101 @@
+[2025-05-26 21:22:05] INFO: Uruchamianie aplikacji
+[2025-05-26 21:22:06] INFO: Kontroler zainicjalizowany
+[2025-05-26 21:22:07] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-26 21:22:20] INFO: Załadowano obraz: DSC00260.JPG
+[2025-05-26 21:22:26] INFO: Wykonano operację: Negatyw
+[2025-05-26 21:22:30] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-2
+[2025-05-26 21:22:31] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-3
+[2025-05-26 21:22:37] INFO: Obrócono obraz o -90 stopni
+[2025-05-26 21:22:39] INFO: Obrócono obraz o 90 stopni
+[2025-05-26 21:22:42] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-2
+[2025-05-26 21:22:50] INFO: Wykonano operację: Konturowanie
+[2025-05-26 21:22:53] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-4
+[2025-05-26 21:23:04] INFO: Załadowano obraz: DSC00234.JPG
+[2025-05-26 21:23:06] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-1
+[2025-05-26 21:23:07] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-2
+[2025-05-26 21:23:07] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-3
+[2025-05-26 21:23:25] INFO: Przeskalowano obraz do 400x400
+[2025-05-26 21:23:28] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-1
+[2025-05-26 21:23:32] INFO: Wykonano operację: Konturowanie
+[2025-05-26 21:23:39] INFO: Zapisano obraz: C:\Users\nicwr\Pictures\kontur.jpg
+[2025-05-26 21:23:53] INFO: Zamykanie aplikacji
+[2025-05-26 21:24:27] INFO: Uruchamianie aplikacji
+[2025-05-26 21:24:27] INFO: Kontroler zainicjalizowany
+[2025-05-26 21:24:28] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-26 21:25:52] INFO: Zamykanie aplikacji
+[2025-05-26 21:26:19] INFO: Uruchamianie aplikacji
+[2025-05-26 21:26:20] INFO: Kontroler zainicjalizowany
+[2025-05-26 21:26:21] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-26 21:26:30] INFO: Załadowano obraz: IMG_2423.jpg
+[2025-05-26 21:26:33] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-1
+[2025-05-26 21:26:34] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-2
+[2025-05-26 21:26:50] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-3
+[2025-05-26 21:27:12] INFO: Wykonano operację: Konturowanie
+[2025-05-26 21:27:17] INFO: Wykonano operację: Negatyw
+[2025-05-26 21:28:59] INFO: Uruchamianie aplikacji
+[2025-05-26 21:28:59] INFO: Kontroler zainicjalizowany
+[2025-05-26 21:29:00] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-26 21:29:07] INFO: Załadowano obraz: IMG_2423.jpg
+[2025-05-26 21:29:12] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-1
+[2025-05-26 21:29:30] ERROR: Błąd przetwarzania: Not on FX application thread; currentThread = pool-2-thread-2
+[2025-05-26 21:30:29] INFO: Uruchamianie aplikacji
+[2025-05-26 21:30:30] INFO: Kontroler zainicjalizowany
+[2025-05-26 21:30:30] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-26 21:30:38] INFO: Załadowano obraz: IMG_2423.jpg
+[2025-05-26 21:30:42] INFO: Wykonano operację: Progowanie
+[2025-05-26 21:30:47] INFO: Zamykanie aplikacji
+[2025-05-26 21:31:10] INFO: Uruchamianie aplikacji
+[2025-05-26 21:31:11] INFO: Kontroler zainicjalizowany
+[2025-05-26 21:31:11] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-26 21:31:17] INFO: Załadowano obraz: IMG_2423.jpg
+[2025-05-26 21:31:22] INFO: Wykonano operację: Progowanie
+[2025-05-26 21:31:28] INFO: Wykonano operację: Progowanie
+[2025-05-26 21:31:33] INFO: Wykonano operację: Progowanie
+[2025-05-26 21:31:37] INFO: Wykonano operację: Progowanie
+[2025-05-26 21:31:44] INFO: Zapisano obraz: C:\Users\nicwr\Pictures\wyprogowany_kwiat.jpg
+[2025-05-26 21:31:46] INFO: Zamykanie aplikacji
+[2025-05-28 14:28:36] INFO: Uruchamianie aplikacji
+[2025-05-28 14:28:36] INFO: Kontroler zainicjalizowany
+[2025-05-28 14:28:37] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-28 14:29:05] INFO: Załadowano obraz: IMG_2423.jpg
+[2025-05-28 14:29:19] INFO: Wykonano operację: Progowanie
+[2025-05-28 14:29:29] INFO: Wykonano operację: Negatyw
+[2025-05-28 14:29:41] INFO: Wykonano operację: Konturowanie
+[2025-05-28 14:30:01] INFO: Wykonano operację: Progowanie
+[2025-05-28 14:30:08] INFO: Wykonano operację: Progowanie
+[2025-05-28 14:30:16] INFO: Obrócono obraz o -90 stopni
+[2025-05-28 14:30:18] INFO: Zamykanie aplikacji
+[2025-05-28 14:31:09] INFO: Uruchamianie aplikacji
+[2025-05-28 14:31:10] INFO: Kontroler zainicjalizowany
+[2025-05-28 14:31:10] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-28 14:31:14] INFO: Zamykanie aplikacji
+[2025-05-28 14:32:52] INFO: Uruchamianie aplikacji
+[2025-05-28 14:32:53] INFO: Kontroler zainicjalizowany
+[2025-05-28 14:32:53] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-28 14:33:20] INFO: Zamykanie aplikacji
+[2025-05-28 16:56:55] INFO: Uruchamianie aplikacji
+[2025-05-28 16:56:55] INFO: Kontroler zainicjalizowany
+[2025-05-28 16:56:56] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-28 16:57:09] INFO: Załadowano obraz: IMG_2423.jpg
+[2025-05-28 16:57:14] INFO: Wykonano operację: Negatyw
+[2025-05-28 16:57:20] INFO: Wykonano operację: Progowanie
+[2025-05-28 16:57:28] INFO: Wykonano operację: Konturowanie
+[2025-05-28 16:57:41] INFO: Wykonano operację: Progowanie
+[2025-05-28 16:57:45] INFO: Obrócono obraz o -90 stopni
+[2025-05-28 16:57:47] INFO: Obrócono obraz o 90 stopni
+[2025-05-28 16:57:54] INFO: Obrócono obraz o -90 stopni
+[2025-05-28 16:57:56] INFO: Wykonano operację: Progowanie
+[2025-05-28 16:58:18] INFO: Obrócono obraz o 90 stopni
+[2025-05-28 16:58:23] INFO: Wykonano operację: Negatyw
+[2025-05-28 17:02:27] INFO: Zamykanie aplikacji
+[2025-05-28 17:02:32] INFO: Uruchamianie aplikacji
+[2025-05-28 17:02:33] INFO: Kontroler zainicjalizowany
+[2025-05-28 17:02:34] INFO: Aplikacja uruchomiona pomyślnie
+[2025-05-28 17:07:10] INFO: Załadowano obraz: IMG_2423.jpg
+[2025-05-28 17:07:28] INFO: Wykonano operację: Negatyw
+[2025-05-28 17:07:36] INFO: Wykonano operację: Progowanie
+[2025-05-28 17:07:43] INFO: Wykonano operację: Konturowanie
+[2025-05-28 17:07:48] INFO: Obrócono obraz o -90 stopni
+[2025-05-28 17:07:55] INFO: Wykonano operację: Konturowanie
+[2025-05-28 17:08:44] INFO: Zapisano obraz: C:\Users\nicwr\Pictures\kwiatek.jpg
+[2025-05-28 17:14:46] INFO: Zamykanie aplikacji
