@@ -1,4 +1,8 @@
-# JavaFX_BasicAPP
+# Aplikacja do obróbki obrazów
+![image](https://github.com/user-attachments/assets/daa28982-97f6-4fc4-a19a-24c1320b43bc)
+
+## Struktura projektu
+![image](https://github.com/user-attachments/assets/407d2f5c-9fe2-40ff-9f91-8e9b8887c2b4)
 
 ## Najważniejsze funkcje projektu
 
@@ -57,6 +61,8 @@
 
 - `log(String level, String message)` – zapisuje komunikaty do pliku `application.log` z datą i poziomem (INFO, ERROR).
 - Używany w całej aplikacji do śledzenia działania i błędów.
+
+![image](https://github.com/user-attachments/assets/78e15386-1cf4-44db-a54a-c8d317cce546)
 
 ---
 
